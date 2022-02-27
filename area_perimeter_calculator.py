@@ -7,10 +7,10 @@
 
 def main():
     print("If your rectangle has the dimensions")
-    print("5cm x 3cm")
+    print("5 cm x 3 cm")
     print("")
-    print("The area of your rectangle is {}cm².".format(3 * 5))
-    print("The perimeter of your rectangle is {}cm".format(2 * (3 + 5)))
+    print("The area of your rectangle is {} cm².".format(3 * 5))
+    print("The perimeter of your rectangle is {} cm".format(2 * (3 + 5)))
     print("")
     print("Done.")
 
